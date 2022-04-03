@@ -1,0 +1,41 @@
+.backgroundcolor-listitens {
+    background-color: yellow;
+}
+
+.backgroundcolor-par {
+    color: green;
+}
+
+.uppercase-impar {
+    text-transform: uppercase;
+}
+
+.font-color-header {
+    color: red;
+}
+
+.border-italic {
+    border: 1px solid black;
+    font-size: 40px;
+}
+
+.fontsize-li {
+    font-size: 20px;
+}
+
+.fontweight-italic {
+    font-weight: bold;
+}
+
+.font-blue {
+    color: blue;
+}
+
+.font-pink {
+    background-color: pink;
+}
+
+a:hover {
+    font-weight: bold;
+    color: rgb(116, 116, 26);
+}
