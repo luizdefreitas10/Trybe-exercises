@@ -6,3 +6,5 @@ if (weekDay === 'segunda-feira' || weekDay === 'terca-feira' || weekDay === 'qua
     console.log('FINALMENTE, descanso merecido UwU');
 } 
 
+
+

@@ -6,3 +6,7 @@ console.log(myName);
 console.log(birthCity);
 console.log(birthYear);
 
+
+
+
+

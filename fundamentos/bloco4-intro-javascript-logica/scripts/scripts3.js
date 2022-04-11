@@ -8,3 +8,7 @@ if (notaDesafio >= 80 && notaDesafio <= 100) {
     console.log("Você foi reprovado.")
 }
 
+
+
+
+

@@ -22,3 +22,6 @@ if (currentHour >= 22 && currentHour <= 24) {
 
 console.log(message);
 
+
+
+
