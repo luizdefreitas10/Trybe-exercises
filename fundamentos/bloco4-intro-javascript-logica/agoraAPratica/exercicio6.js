@@ -24,3 +24,5 @@ switch (pecaXadrez.toLowerCase()) {
     console.log("Não é uma peça de xadrez.");
 }
    
+
+
