@@ -9,3 +9,7 @@ let array = ["vemelho", "luizo", 789, "james"];
 for (let keeper of array) {
     console.log(keeper);
 }
+
+
+
+
