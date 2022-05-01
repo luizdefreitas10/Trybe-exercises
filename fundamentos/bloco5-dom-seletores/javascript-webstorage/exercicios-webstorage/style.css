@@ -1,0 +1,11 @@
+.pClass {
+    background-color: blue;
+    color: red;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+body {
+    margin: 0;
+    
+}
