@@ -4,7 +4,7 @@ Contém todas as atividades desenvolvidas por mim durante minha tragetória na T
 
 "O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
 
-Fundamentos do Desenvolvimento Web ✔️
+Fundamentos do Desenvolvimento Web 
 Bloco 1: Unix, Bash e Shell Script
  1.3 - Fundamentos do Desenvolvimento Web
  1.3 - Introdução - Unix & Shell
@@ -67,7 +67,7 @@ Bloco 10: Testes automatizados com Jest
  10.2 - Jest - Testes Assíncronos
  10.3 - Jest - Simulando comportamentos
  10.4 - Projeto - Jest Assíncrono e Mocking
-Desenvolvimento Front-end ✔️
+Desenvolvimento Front-end 
 Bloco 11: Introdução à React
  11.1 - Introdução - Front-end
  11.1 - Introdução - React
